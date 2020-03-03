@@ -22,7 +22,7 @@
 
 说明
 -
-说明-源码目前只提供付费分享，需要可联系
+说明-源码目前只提供付费分享
 <br>
 <br>
 <br>
@@ -39,7 +39,7 @@
 <br>
 联系方式：<a target="_blank" href="http://www.apppay.xyz/qq.html" alt="点击这里给我发消息"/>点击这里</a>
 <br>
-<h2>目录列表：</h2>
+<h2>目录列表（注：仅供学习交流）</h2>
 <a href="https://github.com/apppay/ManyUsers">微信，支付宝，免签支付，多账户轮训收款（APP辅助）</a><br>
 <a href="https://github.com/apppay/dfpay">H5支付，淘宝代付</a><br>
 <a href="https://github.com/apppay/payai">支付宝普通红包</a><br>
